@@ -11,15 +11,15 @@ To get started with BizCardX, follow these steps:
 4). Use the provided Streamlit interface to upload business card images, extract data, and manage information.<br>
 
 ## Features
-# Secure User Authentication:
+### Secure User Authentication:
 Enable users to create secure accounts with unique credentials for access
-# Image Upload and OCR Processing:
+### Image Upload and OCR Processing:
 Users can effortlessly upload business card images in popular formats like PNG, JPEG, and JPG.<br>
 Employ advanced OCR technology to accurately extract pertinent information such as names, titles, contact details, and company information from uploaded images.
-# Structured Data Storage and Management:
+### Structured Data Storage and Management:
 Utilize a SQL database system to store and organize the extracted business card data.<br>
 Design a streamlined database schema to efficiently store and manage the extracted data fields.
-# Intuitive User Interface:
+### Intuitive User Interface:
 Develop a seamless and user-friendly interface within Streamlit for effortless uploading of business card images and initiation of OCR processing, ensuring intuitive navigation and interaction for users.<br>
 Provide users with tools for viewing, editing, deleting, and updating business card information within the application.
 
