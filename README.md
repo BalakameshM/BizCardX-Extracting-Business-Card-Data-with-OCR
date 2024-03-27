@@ -9,3 +9,9 @@ To get started with BizCardX, follow these steps:
 2). Ensure MySQL is installed and configured with appropriate permissions.<br>
 3). Run python BizCard.py to launch the application with Streamlit run BizCard.py<br>
 4). Use the provided Streamlit interface to upload business card images, extract data, and manage information.<br>
+
+<h3>Requirements</h3>
+1). Streamlit<br>
+2). pymysql<br>
+3). cv2, re, easyocr<br>
+4). matplotlib, pandas<br>
