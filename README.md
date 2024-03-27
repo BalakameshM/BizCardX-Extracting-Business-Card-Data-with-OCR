@@ -1,5 +1,5 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
-<h3>BizCardX is a powerful tool for efficiently managing business card information. Leveraging OCR (Optical Character Recognition) technology and a streamlined user interface built on Streamlit, BizCardX simplifies the process of extracting and organizing vital details from business card images.</h3>
+<h5>BizCardX is a powerful tool for efficiently managing business card information. Leveraging OCR (Optical Character Recognition) technology and a streamlined user interface built on Streamlit, BizCardX simplifies the process of extracting and organizing vital details from business card images.</h5>
 
 
 ## Getting Started
